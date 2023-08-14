@@ -1,2 +1,2 @@
 # Prime-number-checker-tool
-Simply type in the number in message box with the code in file-'prime-number-checker'
+Just enter the number in the message box, along with the code found in the 'prime-number-checker' file.
